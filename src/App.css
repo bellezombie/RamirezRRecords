@@ -1,0 +1,12 @@
+#root {
+  max-width: 0 auto;
+  max-height: 0 auto;
+  text-align: center;
+  background-color: black;
+}
+
+.App {
+  height: 100vh;
+  background: rgb(2, 2, 2);
+  }
+
