@@ -10,8 +10,8 @@ const App = () => {
   return (  
     <>
       <Navbar/>
-      <Cards/> 
-      {/* Despues mejoro y ordeno los estilos */}
+      <Cards/>   {/* Despues mejoro y ordeno los estilos, perdon profe t.t */}
+      
     </>
   )
 }

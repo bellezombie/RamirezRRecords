@@ -3,8 +3,9 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <div>
-    <nav className="navbar justify-content-end bg-dark mb-2">
- <ul class="nav">
+    <nav className="navbar  bg-dark mb-2">
+    <a class="navbar-brand" href="#">RRecords</a>
+ <ul class="nav justify-content-end">
   <li class="nav-item">
     <a class="nav-link active" aria-current="page" href="#">Vinilos</a>
   </li>
