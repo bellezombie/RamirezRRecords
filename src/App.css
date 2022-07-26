@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 #root {
   max-width: 0 auto;
   max-height: 0 auto;
@@ -6,7 +10,7 @@
 }
 
 .App {
-  height: 100vh;
+
   background: rgb(2, 2, 2);
   }
 
